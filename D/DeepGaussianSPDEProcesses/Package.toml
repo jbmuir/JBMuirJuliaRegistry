@@ -1,0 +1,3 @@
+name = "DeepGaussianSPDEProcesses"
+uuid = "7336226e-4303-4ac4-b7ea-9f8be3fa382d"
+repo = "https://github.com/jbmuir/DeepGaussianSPDEProcesses.jl"

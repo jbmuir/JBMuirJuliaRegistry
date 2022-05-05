@@ -4,4 +4,5 @@ repo = "https://github.com/jbmuir/JBMuirJuliaRegistry.jl.git"
 description = "Jack Muir's Registry"
 
 [packages]
+7336226e-4303-4ac4-b7ea-9f8be3fa382d = { name = "DeepGaussianSPDEProcesses", path = "D/DeepGaussianSPDEProcesses" }
 82161b14-01cb-48b6-ae74-3c40ff8e2848 = { name = "AseismicGP", path = "A/AseismicGP" }
