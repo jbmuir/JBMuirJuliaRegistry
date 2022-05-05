@@ -1,6 +1,6 @@
-name = "JBMuirJuliaRegistry.jl"
+name = "JBMuirJuliaRegistry"
 uuid = "6cc6c159-609a-429e-8e83-02e5e130f566"
-repo = "https://github.com/jbmuir/JBMuirJuliaRegistry.jl.git"
+repo = "https://github.com/jbmuir/JBMuirJuliaRegistry.git"
 description = "Jack Muir's Registry"
 
 [packages]
