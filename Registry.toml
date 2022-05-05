@@ -4,3 +4,4 @@ repo = "https://github.com/jbmuir/JBMuirJuliaRegistry.jl.git"
 description = "Jack Muir's Registry"
 
 [packages]
+82161b14-01cb-48b6-ae74-3c40ff8e2848 = { name = "AseismicGP", path = "A/AseismicGP" }
